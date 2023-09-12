@@ -69,10 +69,10 @@ const Card = () => {
             class=" align-center   heart_main_div absolute right-5 mt-5 flex justify-end gap-3 text-white xl:mr-[10px] "
             style={{ fontSize: "20px", top: "80px" }}
           >
-            <img src="/images/arrow.svg" alt="" class="fill-white text-white" />
+            <img src="/arrow.svg" alt="" class="fill-white text-white" />
             <img
               width="20px"
-              src="/images/heart.svg"
+              src="/heart.svg"
               alt=""
               class="  cursor-pointer"
             />
